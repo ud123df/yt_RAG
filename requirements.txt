@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+youtube_transcript_api
+langchain-groq
+langchain
+langchain_community
+langchain_core
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+langchain-huggingface
